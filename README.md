@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fdieguez1
-- 👀 I’m interested in programming, games, cars, 3d printing, photography, graphic design, music!
+- 👀 I’m interested in programming, games, cars, 3d printing, photography, graphic design and music!
 
 <!---
 fdieguez1/fdieguez1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
