@@ -10,7 +10,9 @@
 *  Música 🎧 Music
 *  Cosas japonesas 👺 Japanese things
 
+Pd: La mayoria de mi trabajo es para el sector privado, por eso no se muestra aquí.
 
+Pd: Most of my work is for the private sector, so that's why it isn't shown here.
 
 Portfolio: 
 https://fernandodieguez.azurewebsites.net/
