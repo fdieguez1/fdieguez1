@@ -12,7 +12,7 @@
 
 
 
-Mi portfolio online/My online portfolio: 
+Portfolio: 
 https://fernandodieguez.azurewebsites.net/
 
 <!---
