@@ -1,8 +1,8 @@
 ⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛
 
-*👋 Hi!, I'm Fernando Dieguez 🙂*
+*👋 Hi!, I'm Fernando Dieguez*
 
-😮 Interests
+🐒 Interests
 *  🥽 Vr
 *  💻 Programming
 *  🎮 Games
