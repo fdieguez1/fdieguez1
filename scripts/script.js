@@ -23,4 +23,8 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   document.querySelectorAll(".fade-in").forEach(el => observer.observe(el));
+
+  document.getElementById("current-year").innerHTML = new Date().getFullYear();
+
+ 
 });
