@@ -16,7 +16,7 @@
   }
   
   .project-card {
-    background-color: #fff;
+    background-color: #202020;
     border: 1px solid #ddd;
     border-left: 5px solid #333;
     border-radius: 5px;
@@ -27,7 +27,6 @@
   
   .project-card img {
     max-width: 150px;
-    float: right;
     margin-left: 15px;
     border-radius: 4px;
   }

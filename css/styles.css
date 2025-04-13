@@ -46,9 +46,9 @@ nav a:hover {
   padding: 4rem 2rem;
   text-align: center;
   background-attachment: fixed;
-  background-image: url('https://source.unsplash.com/1600x900/?technology');
+  background-image: url('../imgs/ales-nesetril-Im7lZjxeLhg-unsplash.jpg');
   background-size: cover;
-  background-position: center;
+  background-position: bottom;
   color: #ffffff;
 }
 
